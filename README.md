@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tyler Morgan
 
-AI practitioner building scalable neural networks
+AI practitioner building scalable networks
 
 🌱 I'm constantly learning and contributing to the open-source community.
 
