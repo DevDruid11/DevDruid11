@@ -1,4 +1,4 @@
-# 👋 Hi, I'm DevDruid11
+# 👋 Hi, I'm Tyler Morgan
 
 AI practitioner building scalable neural networks
 
